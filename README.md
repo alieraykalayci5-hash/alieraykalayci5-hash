@@ -1,7 +1,15 @@
+![Demo](assets/demo.gif)
+
 # 👋 Hello, I am Ali Eray Kalaycı
 
 🎓 Computer Engineering Student
 🤖 Robotics • Autonomous Systems • AI
+
+---
+
+## 🧩 Architecture
+
+![Architecture](assets/architecture.png)
 
 ---
 
@@ -49,11 +57,11 @@ Real-time multi-object tracking using YOLOv8, Kalman Filter, and C++-optimized H
 
 ---
 
-### 🔹 Radar Target Tracking Engine
+### 🔹 AI Learning-Enhanced Tracking
 
-[🔗 View Repository](https://github.com/alieraykalayci5-hash/radar-target-tracking-engine)
+[🔗 View Repository](https://github.com/alieraykalayci5-hash/ai-learning-enhanced-tracking)
 
-Deterministic C++17 tracking engine with Kalman filtering, Mahalanobis gating, and Hungarian data association.
+Adaptive tracking system with innovation-based noise tuning and NIS-driven performance evaluation.
 
 ---
 
