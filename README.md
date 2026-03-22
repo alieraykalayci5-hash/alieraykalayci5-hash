@@ -1,39 +1,39 @@
 # 👋 Hello, I am Ali Eray Kalaycı
 
 🎓 Computer Engineering Student
-🤖 Interested in Robotics, Autonomous Systems & AI
+🤖 Robotics • Autonomous Systems • AI
 
 ---
 
 ## 🚀 About Me
 
-I develop performance-oriented systems in **C++ and Python**, focusing on:
+I develop performance-oriented systems in **C++ and Python**, focusing on real-time processing, tracking algorithms, and system-level design.
 
 * Real-time systems
 * Multi-object tracking
 * State estimation (Kalman Filter)
 * Autonomous systems
 
-I care about **determinism, performance, and clean system design**.
+⚡ Focused on **determinism, performance, and scalable architectures**.
 
 ---
 
 ## 🧠 Technical Focus
 
-* Computer Vision (YOLO, OpenCV)
-* Tracking Systems (Kalman Filter, Hungarian Algorithm)
-* Simulation Systems (Deterministic design)
-* Networking (TCP / UDP)
+* 🎯 Computer Vision (YOLO, OpenCV)
+* 📡 Tracking Systems (Kalman Filter, Hungarian Algorithm)
+* 🧪 Simulation Systems (Deterministic design)
+* 🌐 Networking (TCP / UDP)
 
 ---
 
 ## 🔧 Technologies
 
-### Languages
+### 💻 Languages
 
 C++ • Python • Java
 
-### Libraries & Tools
+### 🧰 Libraries & Tools
 
 OpenCV • NumPy • Eigen • ctypes
 
@@ -43,23 +43,33 @@ OpenCV • NumPy • Eigen • ctypes
 
 ### 🔹 Python Vision Tracking Engine
 
-Real-time multi-object tracking system using YOLOv8, Kalman Filter, and C++ Hungarian optimization.
+[🔗 View Repository](https://github.com/alieraykalayci5-hash/python-vision-tracking-engine)
+
+Real-time multi-object tracking using YOLOv8, Kalman Filter, and C++-optimized Hungarian assignment (~20–35 FPS).
+
+---
 
 ### 🔹 Radar Target Tracking Engine
 
-Deterministic C++17 tracking engine with Kalman filtering, Mahalanobis gating, and Hungarian assignment.
+[🔗 View Repository](https://github.com/alieraykalayci5-hash/radar-target-tracking-engine)
+
+Deterministic C++17 tracking engine with Kalman filtering, Mahalanobis gating, and Hungarian data association.
+
+---
 
 ### 🔹 Real-Time Client–Server Networking
 
-Multi-threaded TCP + custom reliable UDP protocol with performance testing.
+[🔗 View Repository](https://github.com/alieraykalayci5-hash/realtime-client-server-demo)
+
+Multi-threaded TCP server and custom reliable UDP protocol with performance testing.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=alieraykalayci5-hash\&show_icons=true\&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=alieraykalayci5-hash\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alieraykalayci5-hash\&layout=compact\&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alieraykalayci5-hash\&layout=compact\&theme=tokyonight)
 
 ---
 
