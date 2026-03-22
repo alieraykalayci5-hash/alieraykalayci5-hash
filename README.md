@@ -2,8 +2,8 @@
 
 # 👋 Hello, I am Ali Eray Kalaycı
 
-🎓 Computer Engineering Student
-🤖 Robotics • Autonomous Systems • AI
+🎓 Computer Engineering Student  
+Software Development • C++ • Python
 
 ---
 
@@ -15,7 +15,13 @@
 
 ## 🚀 About Me
 
-I build **real-time systems in C++ and Python**, focusing on tracking, simulation, and system-level engineering.
+Computer Engineering student focused on software development and real-time systems.
+
+I develop high-performance applications in C++ and Python, including multi-object tracking, simulation systems, and client-server architectures.
+
+My work combines algorithmic problem solving with practical implementation of systems such as Kalman filtering, data association, and real-time processing.
+
+Interested in building scalable and efficient software, especially in systems and performance-oriented applications.
 
 ⚡ Performance • Determinism • Clean Architecture
 
@@ -65,8 +71,8 @@ Multi-threaded TCP server and custom reliable UDP protocol with performance test
 
 ## 📫 Contact
 
-* GitHub: [https://github.com/alieraykalayci5-hash](https://github.com/alieraykalayci5-hash)
-* LinkedIn: [https://www.linkedin.com/in/ali-eray-kalaycı-423b05296](https://www.linkedin.com/in/ali-eray-kalaycı-423b05296)
+* Email: alieraykalayci5@gmail.com  
+* LinkedIn: https://www.linkedin.com/in/ali-eray-kalayci-423b05296
 
 ---
 
