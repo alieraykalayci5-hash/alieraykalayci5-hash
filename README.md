@@ -1,15 +1,7 @@
-![Demo](assets/demo.gif)
-
 # 👋 Hello, I am Ali Eray Kalaycı
 
 🎓 Computer Engineering Student  
 Software Development • C++ • Python
-
----
-
-## 🧩 Architecture
-
-![Architecture](assets/architecture.png)
 
 ---
 
