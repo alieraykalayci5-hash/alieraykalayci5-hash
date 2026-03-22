@@ -15,35 +15,17 @@
 
 ## 🚀 About Me
 
-I develop performance-oriented systems in **C++ and Python**, focusing on real-time processing, tracking algorithms, and system-level design.
+I build **real-time systems in C++ and Python**, focusing on tracking, simulation, and system-level engineering.
 
-* Real-time systems
-* Multi-object tracking
-* State estimation (Kalman Filter)
-* Autonomous systems
-
-⚡ Focused on **determinism, performance, and scalable architectures**.
+⚡ Performance • Determinism • Clean Architecture
 
 ---
 
-## 🧠 Technical Focus
+## 🛠️ Tech Stack
 
-* 🎯 Computer Vision (YOLO, OpenCV)
-* 📡 Tracking Systems (Kalman Filter, Hungarian Algorithm)
-* 🧪 Simulation Systems (Deterministic design)
-* 🌐 Networking (TCP / UDP)
-
----
-
-## 🔧 Technologies
-
-### 💻 Languages
-
-C++ • Python • Java
-
-### 🧰 Libraries & Tools
-
-OpenCV • NumPy • Eigen • ctypes
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,opencv" />
+</p>
 
 ---
 
@@ -53,15 +35,15 @@ OpenCV • NumPy • Eigen • ctypes
 
 [🔗 View Repository](https://github.com/alieraykalayci5-hash/python-vision-tracking-engine)
 
-Real-time multi-object tracking using YOLOv8, Kalman Filter, and C++-optimized Hungarian assignment (~20–35 FPS).
+Real-time multi-object tracking using YOLOv8, Kalman Filter, and C++ Hungarian optimization.
 
 ---
 
-### 🔹 AI Learning-Enhanced Tracking
+### 🔹 Autonomous Ground Vehicle Simulation
 
-[🔗 View Repository](https://github.com/alieraykalayci5-hash/ai-learning-enhanced-tracking)
+[🔗 View Repository](https://github.com/alieraykalayci5-hash/autonomous-ground-vehicle-sim)
 
-Adaptive tracking system with innovation-based noise tuning and NIS-driven performance evaluation.
+C++17-based autonomous vehicle simulation including planning, control (PID), and sensor modeling.
 
 ---
 
@@ -77,7 +59,7 @@ Multi-threaded TCP server and custom reliable UDP protocol with performance test
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=alieraykalayci5-hash\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alieraykalayci5-hash\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alieraykalayci5-hash\&layout=compact\&theme=tokyonight\&langs_count=6)
 
 ---
 
@@ -88,4 +70,4 @@ Multi-threaded TCP server and custom reliable UDP protocol with performance test
 
 ---
 
-⚡ Always building real-time systems and improving engineering depth.
+⚡ Focused on building real-time systems and advancing engineering depth.
