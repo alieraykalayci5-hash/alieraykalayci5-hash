@@ -5,7 +5,7 @@ Software Development • C++ • Python
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 Computer Engineering student focused on software development and real-time systems.
 
