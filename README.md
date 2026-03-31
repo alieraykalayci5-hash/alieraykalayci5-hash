@@ -55,9 +55,9 @@ Multi-threaded TCP server and custom reliable UDP protocol with performance test
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=alieraykalayci5-hash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=alieraykalayci5-hash&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alieraykalayci5-hash&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alieraykalayci5-hash&layout=compact&theme=tokyonight)
 
 ---
 
