@@ -1,39 +1,55 @@
-# 👋 Hello, I am Ali Eray Kalaycı
+# 👋 Hello, I’m Ali Eray Kalaycı
 
-🎓 Computer Engineering Student  
-Software Development • C++ • Python
+🎓 Computer Engineering Student
+Software Engineering • Backend Systems • Real-Time Systems • Networking • Analytics
 
 ---
 
-##  About Me
+## About Me
 
-Computer Engineering student focused on software development and real-time systems.
+I am a Computer Engineering student focused on building **efficient, practical, and engineering-driven software systems**.
 
-I develop high-performance applications in C++ and Python, including multi-object tracking, simulation systems, and client-server architectures.
+My work spans across:
 
-My work combines algorithmic problem solving with practical implementation of systems such as Kalman filtering, data association, and real-time processing.
+* backend development
+* real-time and performance-oriented systems
+* networking and distributed communication
+* simulation and systems programming
+* analytics and data-driven reporting
 
-Interested in building scalable and efficient software, especially in systems and performance-oriented applications.
+I enjoy designing software that combines **clean architecture, strong technical foundations, and practical implementation**.
 
-⚡ Performance • Determinism • Clean Architecture
+My projects reflect a balance between **systems thinking and software development**, including backend APIs, event processing platforms, simulation engines, tracking systems, and networking applications.
+
+I am especially interested in building software for domains where **performance, reliability, architecture, and engineering depth** matter.
+
+⚡ Performance • Systems Thinking • Clean Architecture • Practical Engineering
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,opencv" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,spring,postgresql,git" />
 </p>
 
 ---
 
 ## 📂 Featured Projects
 
+### 🔹 Telecom Event Processing Platform
+
+[🔗 View Repository](https://github.com/alieraykalayci5-hash/telecom-event-processing-platform)
+
+Telecom-oriented backend and analytics platform built with **Java Spring Boot, PostgreSQL, and Python**. Includes subscriber management, telecom event ingestion, validation, duplicate detection, structured error handling, and database-driven analytics/reporting.
+
+---
+
 ### 🔹 Python Vision Tracking Engine
 
 [🔗 View Repository](https://github.com/alieraykalayci5-hash/python-vision-tracking-engine)
 
-Real-time multi-object tracking using YOLOv8, Kalman Filter, and C++ Hungarian optimization.
+Real-time multi-object tracking system using **YOLOv8, Kalman Filter, and C++-accelerated Hungarian optimization**.
 
 ---
 
@@ -41,31 +57,45 @@ Real-time multi-object tracking using YOLOv8, Kalman Filter, and C++ Hungarian o
 
 [🔗 View Repository](https://github.com/alieraykalayci5-hash/autonomous-ground-vehicle-sim)
 
-C++17-based autonomous vehicle simulation including planning, control (PID), and sensor modeling.
+C++17-based autonomous vehicle simulation including **planning, control (PID), and sensor modeling**.
 
 ---
 
-### 🔹 Real-Time Client–Server Networking
+### 🔹 Real-Time Ballistics Simulation Engine
 
-[🔗 View Repository](https://github.com/alieraykalayci5-hash/realtime-client-server-demo)
+[🔗 View Repository](https://github.com/alieraykalayci5-hash/realtime-ballistics-sim)
 
-Multi-threaded TCP server and custom reliable UDP protocol with performance testing.
+Deterministic real-time projectile simulation and fire-control engine focused on **physics modeling, reproducibility, and systems-oriented design**.
+
+---
+
+## 🧩 Engineering Focus
+
+My current focus areas include:
+
+* Backend Development
+* Event Processing Systems
+* Real-Time Systems
+* Networking & Protocol Design
+* Simulation & Systems Programming
+* Analytics & Reporting Pipelines
+* Performance-Oriented Software Engineering
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=alieraykalayci5-hash&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=alieraykalayci5-hash\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alieraykalayci5-hash&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alieraykalayci5-hash\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 📫 Contact
 
-* Email: alieraykalayci5@gmail.com  
-* LinkedIn: https://www.linkedin.com/in/ali-eray-kalayci-423b05296
+* Email: [alieraykalayci5@gmail.com](mailto:alieraykalayci5@gmail.com)
+* LinkedIn: [https://www.linkedin.com/in/ali-eray-kalayci-423b05296](https://www.linkedin.com/in/ali-eray-kalayci-423b05296)
 
 ---
 
-⚡ Focused on building real-time systems and advancing engineering depth.
+⚡ Focused on building software systems with strong engineering depth.
